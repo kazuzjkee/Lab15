@@ -4,7 +4,7 @@ import "../styles.css";
 const Aside = () => {
   return (
     <aside className="aside">
-      <p>Ваша фамилия, имя и отчество (если есть).</p>
+      <p>Литвинов Егор Константинович</p>
     </aside>
   );
 };

@@ -4,7 +4,7 @@ import "../styles.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; {new Date().getFullYear()} Ваше Имя. Все права защищены.</p>
+      <p>&copy; {new Date().getFullYear()} Литвинов Егор Константинович. Все права защищены.</p>
     </footer>
   );
 };
